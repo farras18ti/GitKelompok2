@@ -8,8 +8,6 @@ import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentPagerAdapter
 import androidx.viewpager.widget.ViewPager
 
-import com.example.tablelayoutketua.app.Fragment.InboxFragment
-
 import com.google.android.material.tabs.TabLayout
 
 class MainActivity : AppCompatActivity() {
